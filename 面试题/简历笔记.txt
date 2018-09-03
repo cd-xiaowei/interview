@@ -1,0 +1,91 @@
+专业技能：
+写自己会的，不能写自己不会的。
+====================================
+项目经验：
+项目名称：不能一样
+开发环境：Liunx+Python+Django+MySQL
+项目描述：完整的流程(讲一个故事，不能出现专业性名词)
+例如：是一款B2C产品选购平台系统，通过用户浏览产品信息，添加购物车，实现在线支付，不用出门就能实现快速、高效、便捷的产品到家服务。团队项目，负责后台管理系统和产品展示系统开发。
+
+项目职责：(功能点不能太少，也不要太多。大概4个，不能写的太详细，实现的步骤，写到模块)
+
+例如：
+1. 后台管理系统主要基于Django框架，主要有商品管理模块和用户管理模块；
+2. 商品管理模块主要实现商品的管理，使用Django自带的ORM映射模块与
+MySQL数据库进行映射；
+3. 用户管理模块主要进行用户权限管理，根据相应权限进行相应页面展示，用
+Python装饰器进行用户权限管理，用Django中admin模块进行界面管理；
+4. 产品展示系统主要应用HTML5，JavaScript，CSS等前端技术完成产品展示搭建。
+
+
+天天果园：
+首页
+	前后端分离：ajax 了解模板 json
+	不分离(全栈)：模板 html js css 	了解前端的框架(vue,react)
+	
+详细页
+
+登录、注册
+	session,cookie 
+	验证码
+	权限控制（装饰器）
+	邮箱
+	手机验证码
+	百度API
+	
+购物车
+	集中在前端（js/ajax）
+
+下订单
+	快照(https://www.v2ex.com/amp/t/448695
+	https://blog.csdn.net/weixin_39885282/article/details/80529180
+	)
+	乐观锁(https://www.cnblogs.com/richerdyoung/p/6427668.html)
+	redis(队列)
+个人信息
+	单点登录(https://blog.csdn.net/python_tty/article/details/53113612)
+	一个账号同时登录一次(https://blog.csdn.net/ljasdf123/article/details/17587611)
+	
+支付
+	第三方接口（微信，支付宝）
+	https://blog.csdn.net/cnweike/article/details/52669089
+
+	
+
+
+
+爬虫电影
+
+中期项目
+
+租赁网站
+
+订餐系统
+
+洗车
+
+借书管理系统
+
+新闻类+爬虫
+
+
+工作经验：
+
+
+
+web前端：html+css+js+ajax+前端框架
+测试：
+运维：
+
+python后端 flask mysql mongodb redis
+
+python全栈 web
+
+爬虫 scrapy 验证码 动态爬虫 分布式爬虫 怎么反爬
+
+
+数据分析
+
+
+
+
